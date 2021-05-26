@@ -1,0 +1,1 @@
+Traduzi todos os algoritmos ao pé da letra para Java. Eu particularmente adotaria outra estratégia. Não sei se esse else e depois if else é realmente viável. 
